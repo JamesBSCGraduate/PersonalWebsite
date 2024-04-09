@@ -78,7 +78,7 @@ a {
   text-decoration: none;
   text-align: center;
 }
-#alink {
+.link {
   padding-left: 50em;
   text-align: center;
 }
@@ -87,7 +87,7 @@ p {
 }
 img {
   display: inline-block;
-
+  align-items: center;
   height: auto;
   display: block;
   padding-left: 40%;
