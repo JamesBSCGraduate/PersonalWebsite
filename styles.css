@@ -85,7 +85,7 @@ a {
   padding-left: 50em;
   text-align: center;
 }
-p {
+p, h2,h3 {
   text-align: center;
 }
 img {
